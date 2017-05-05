@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baby Music Player</string>
+    <string name="main_act">Tap an image to continue</string>
+    <string name="baby_text">You are listening to Baby Shark by Super Simple Songs</string>
+    <string name="star_text">You are listening to Twinkle Twinkle Little Star by Super Simple Songs.</string>
+    <string name="yummy_text">You are listening to Do you like Avocado Lollipop? by Super Simple Songs.</string>
+    <string name="abc_text">You are listening to The ABC Song by Super Simple Songs.</string>
+    <string name="snowflake_text">You are listening to Little Snowflake by Super Simple Songs.</string>
+</resources>
